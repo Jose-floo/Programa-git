@@ -1,2 +1,2 @@
-Nombre: Jose
-Correo: florezgarciajosedavid16@gmail.com
+Nombre: Tu Nombre
+Correo: tuemail@example.com
